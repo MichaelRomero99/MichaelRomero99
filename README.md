@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Romero
-- 👀 I’m interested in BackEnd Engineering
-- 🌱 I’m currently a CS student @ SJSU
+- 👀 Software Engineer @ ...
+- Alumni @ SJSU
 - 📫 Email: michaelromeroswe@gmail.com
 
 <!---
